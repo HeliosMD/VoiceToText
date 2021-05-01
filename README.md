@@ -1,2 +1,2 @@
 # VoiceToText
-Voice Memo Transcriber
+Voice Memo Transcriber (for Android systems)
